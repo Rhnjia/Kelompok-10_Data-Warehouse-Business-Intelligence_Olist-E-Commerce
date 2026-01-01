@@ -1,5 +1,6 @@
 # Kelompok-10_Data-Warehouse-Business-Intelligence_Olist-E-Commerce
-Proyek Data Warehouse & Business Intelligence: OLIST Marketplace
+Proyek Data Warehouse & Business Intelligence:
+OLIST Marketplace
 📌 Ringkasan Proyek
 
 Proyek ini merupakan implementasi solusi Data Warehouse dan Business Intelligence (BI) pada OLIST Marketplace dengan fokus utama pada perspektif finansial. Tujuan utama dari proyek ini adalah untuk menganalisis kinerja penjualan, kontribusi pendapatan, serta perilaku pelanggan guna mendukung proses pengambilan keputusan strategis berbasis data.
@@ -8,17 +9,18 @@ Dengan memanfaatkan pendekatan Data Warehouse dan visualisasi BI, proyek ini men
 
 🎯 Tujuan Utama Proyek
 
-Merancang Data Warehouse menggunakan pendekatan Star Schema.
+1. Merancang Data Warehouse menggunakan pendekatan Star Schema.
 
-Melakukan proses ETL (Extract, Transform, Load) dari data operasional ke data analitik.
+2. Melakukan proses ETL (Extract, Transform, Load) dari data operasional ke data analitik.
 
-Menghasilkan indikator kinerja utama (KPI) berbasis finansial.
+3. Menghasilkan indikator kinerja utama (KPI) berbasis finansial.
 
-Mengembangkan dashboard interaktif sebagai alat pemantauan performa bisnis OLIST Marketplace.
+4. Mengembangkan dashboard interaktif sebagai alat pemantauan performa bisnis OLIST Marketplace.
 
 📊 1. Desain Data Warehouse
 
-Database operasional OLIST ditransformasikan menjadi Star Schema untuk mendukung kebutuhan analisis dan pelaporan (OLAP).
+Database operasional OLIST ditransformasikan menjadi Star Schema 
+untuk mendukung kebutuhan analisis dan pelaporan (OLAP).
 
 🔹 Tabel Fakta
 
@@ -52,15 +54,15 @@ Analisis difokuskan pada pendapatan dan perilaku pelanggan berdasarkan data hasi
 
 A. Analisis Pendapatan (Revenue Analysis)
 
-Menghitung Total Revenue sebagai indikator utama performa bisnis.
+- Menghitung Total Revenue sebagai indikator utama performa bisnis.
 
-Mengidentifikasi kontribusi penjualan berdasarkan pelanggan dan produk.
+- Mengidentifikasi kontribusi penjualan berdasarkan pelanggan dan produk.
 
 B. Analisis Perilaku Pelanggan
 
-Mengukur Average Revenue per Customer (ARPC) untuk mengetahui nilai ekonomi rata-rata setiap pelanggan.
+- Mengukur Average Revenue per Customer (ARPC) untuk mengetahui nilai ekonomi rata-rata setiap pelanggan.
 
-Analisis ini membantu dalam memahami distribusi nilai pelanggan pada marketplace.
+- Analisis ini membantu dalam memahami distribusi nilai pelanggan pada marketplace.
 
 📈 3. Visualisasi Dashboard Business Intelligence
 
@@ -85,8 +87,8 @@ Memberikan gambaran pola penjualan untuk mendukung evaluasi performa bisnis.
 
 Dashboard ini dirancang untuk membantu manajemen dalam:
 
-Memantau kinerja finansial
+- Memantau kinerja finansial
 
-Mengevaluasi strategi penjualan
+- Mengevaluasi strategi penjualan
 
-Mendukung pengambilan keputusan berbasis data
+- Mendukung pengambilan keputusan berbasis data
